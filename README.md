@@ -1,3 +1,3 @@
 # SpaceY Website
 
-Made By: Shivam Suri, Krishnan Shankar, Deyby Rodriguez, Noel Jackson
+Made By: Shivam Suri, Krishnan Shankar, Alex Kasprzak, Noel Jackson
