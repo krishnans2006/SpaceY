@@ -1,0 +1,17 @@
+body{
+  background-color: rgba(245, 233, 212, 1);
+}
+
+.background1{
+  opacity: 0.8;
+}
+
+/*.card{
+  animation: fadeEffect 4s;
+}
+
+@keyframes fadeEffect{
+  from {opacity: 0%}
+  to {opacity: 100%}
+}
+*/
