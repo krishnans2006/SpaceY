@@ -60,7 +60,7 @@ def api_eonet():
     events = ""
     for i in range(6):
         event = choice(events_api)
-        events += f"<a href='{event['sources'][0]['url']}'>{event['title']}</a> - {', '.join([x['title'] for x in event['categories']])}"
+        events += f"{event['title']} - {', '.join([x['title'] for x in event['categories']])}"
     return [events]
 
 def api_epic():
